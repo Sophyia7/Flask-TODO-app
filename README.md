@@ -16,6 +16,8 @@ This is my first project on flask framework. In the process of learning flask, t
   If you wish to delete a task, click on the Delete (green) button.
   
   
-  # Live link loading...
+  # HERE IS THE LIVE LINK: 
+  
+  ## http://sophyia.pythonanywhere.com/
 
 
